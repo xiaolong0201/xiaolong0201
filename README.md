@@ -11,11 +11,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🐧 
+- 👨‍💻 经历：<a href="" target="_blank"> </a>
+- 🏡 作品：<a href="" target="_blank"></a> | <a href="" target="_blank"></a>
+- 🌱 干货：<a href="" target="_blank"></a>
+- 😺 视频：<a href="" target="_blank"></a> | 抖音 
+- 💬 微信：（请备注事由）
+- 🤔 问题：<a href="" target="_blank">知乎 @</a>
+- 👭 
+
 -->
+
 ## 我是王同学 
 
 - 哈喽，大家好！👋
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaolong0201&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolong0201&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaolong0201&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolong0201&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
